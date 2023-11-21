@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parent1{
+
+}
+.child1{
+    overflow-x: hidden;
+    position: relative;
+}
+.child2{
+    width: 100%;
+    position: absolute;
+    margin-top: -500px;
+    
+}
+.child3{
+    width: 100%;
+    position: absolute;
+    margin-top: -500px;
+
+}
+.parent2{
+    position: relative;
+}
+.childa1{
+    position: absolute;
+    margin-left: 640px;
+    margin-top: 230px;
+    color: white;
+    font-size: 35px;
+    
+}
+.childa2{
+    position: absolute;
+    color: white;
+    margin-left: 520px;
+    margin-top: 290px;
+    font-size: 15px;
+}
+.childa3{
+    position: absolute;
+    color: white;
+    margin-left: 650px;
+    margin-top: 320px;
+    font-size: 25px;
+}
+.child5{
+    position: absolute;
+    margin-left: 230px;
+    margin-top: -210px;
+    border: 2px solid rgb(211, 66, 66);
+    border-radius: 25px;
+
+}
+.child6{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -280px;
+    background-color: rgb(172, 115, 115);
+    border: 2px solid rgb(211, 66, 66);
+    border-radius: 50px;
+}
+.child7{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -270px;
+    border: 2px solid rgb(211, 66, 66);
+    border-radius: 25px;
+}
+.child8 {
+    position: absolute;
+    margin-left: 1040px;
+    margin-top: -250px;
+    border: 2px solid rgb(211, 66, 66);
+    border-radius: 25px;
+}
+.child9 {
+    position: absolute;
+    margin-left: 1240px;
+    margin-top: -320px;
+    border: 2px solid rgb(211, 66, 66);
+    border-radius: 25px;
+}
+.child10{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -282px;
+    opacity: 0.6;
+}
+.child11{
+    position: absolute;
+        margin-left: 500px;
+        margin-top: -282px;
+}
+.name{
+    position: absolute;
+    color: white;
+    margin-left: 470px;
+    margin-top: 630px;
+    color: red;
+    
+}
+.line{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    margin-left: 535px;
+    margin-top: 540px;
+    color: rgb(211, 66, 66);
+    opacity: 0.5;
+}
